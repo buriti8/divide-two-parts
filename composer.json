@@ -1,0 +1,21 @@
+{
+    "name": "buriti8/divide-two-parts",
+    "description": "Print YES, if it can divide something into two parts",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Manuel Buriticá",
+            "email": "buriti8@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Divide\\": "src/DivideTwoParts/"
+        }
+    }
+}
